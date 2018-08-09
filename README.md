@@ -8,7 +8,7 @@
 *Substitute Librarian & Teacher, Torrance Unified School District,* October 2016–Present:<br>
 -Supervise students, provide thoughtful lesson plans, and implement discipline as needed. In the library setting, I also assist student and faculty patrons in use of the library and multimedia workstations, maintain the facility and its collection, and respond to inquiries.<br><br>
 
-*Social Media Teacher, South Bay Adult School,* September 2016–November 2016:<br><br>
+*Social Media Teacher, South Bay Adult School,* September 2016–November 2016:<br>
 -Propose and develop class titled “Savvy Social Media and Internet Safety”, create curriculum, and teach interactive lessons about social media platforms for 8 students.<br><br>
 
 *Film & TV Production Management Coordinator, DreamWorks Animation,* 2011–2016:<br>
