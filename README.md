@@ -23,6 +23,8 @@ Library and information science professional with experience in research, teachi
 <h3>Skills:</h3>
 Mac/PC/Linux Proficient; HTML; Microsoft Word, Excel, and PowerPoint; Virtual Box; Bitcurator, Guymager; Forensic Toolkit; FTKImager; Archivematica; Confluence; JIRA; Zoom; Adobe Acrobat and Photoshop; Google Docs, Calendar and Spreadsheets; Cataloging (MARC21); CONTENTdm; Protégé; Final Draft; Final Cut Pro; Facebook; Twitter; LinkedIn; Snapchat.<br>
 
-<h3>Activities</h3>
-Co-Vice President of UCLA’s Special Libraries Association (2017-Present); Vice Chair of UCLA Information Studies Department Student Governing Board (2017-Present); Member of Women in Animation (2015–Present); World Information Architecture Day Volunteer (2018).
+<h3>Activities:</h3>
+-President of UCLA’s Special Libraries Association (2017-Present)
+-Co-Chair of UCLA Information Studies Department Student Governing Board (2017-Present)
+-Member of Women in Animation (2015–Present); World Information Architecture Day Volunteer (2018)
 
