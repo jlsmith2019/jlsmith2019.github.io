@@ -1,7 +1,7 @@
 <h3>Professional Profile:</h3>
 Library and information science professional with experience in research, teaching, and project management. Self-starter, quick learner, great communicator, and resourceful and patient problem solver who works well with all personalities and anticipates the team’s needs.<br><br>
 
-<h3>Relevant Work Experience:</h3> <br>
+<h3>Relevant Work Experience:</h3> 
 *Digital Archives Program Scholar, UCLA Library’s Center for Primary Research and Training,* June 2017–Present:<br> 
 -Process born-digital materials. <br><br>
 
