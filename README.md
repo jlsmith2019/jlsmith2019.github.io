@@ -26,5 +26,6 @@ Mac/PC/Linux Proficient; HTML; Microsoft Word, Excel, and PowerPoint; Virtual Bo
 <h3>Activities:</h3>
 -President of UCLA’s Special Libraries Association (2017-Present)<br>
 -Co-Chair of UCLA Information Studies Department Student Governing Board (2017-Present)<br>
--Member of Women in Animation (2015–Present); World Information Architecture Day Volunteer (2018)
+-Member of Women in Animation (2015–Present)<br>
+-World Information Architecture Day Volunteer (2018)
 
