@@ -20,6 +20,13 @@ Library and information science professional with experience in research, teachi
 *Film Department Manager, ASUC SUPERB Productions,* 2007-2009:<br>
 -Produce bi-weekly film screenings at UC Berkeley: creating the film schedule, booking the venue and projectionist, renting film reels, marketing the events, and managing 7 interns.<br><br>
 
+<h3>Education</h3>
+University of California, Los Angeles: Master of Library & Information Science (2017-2019)<br>
+University of California, Berkeley: Film Studies & Rhetoric Double Major (2006–2010)<br>
+
+<h3>Coursework</h3>
+-Systems and Infrastructures, Privacy and Information Technology, Description and Access, Descriptive & Subject Cataloging, Public Health Informatics, Values and Communities.
+
 <h3>Skills:</h3>
 Mac/PC/Linux Proficient; HTML; Microsoft Word, Excel, and PowerPoint; Virtual Box; Bitcurator, Guymager; Forensic Toolkit; FTKImager; Archivematica; Confluence; JIRA; Zoom; Adobe Acrobat and Photoshop; Google Docs, Calendar and Spreadsheets; Cataloging (MARC21); CONTENTdm; Protégé; Final Draft; Final Cut Pro; Facebook; Twitter; LinkedIn; Snapchat.<br>
 
