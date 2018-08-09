@@ -5,7 +5,7 @@ Library and information science professional with experience in research, teachi
 *Digital Archives Program Scholar, UCLA Library’s Center for Primary Research and Training,* June 2017–Present:<br> 
 -Process born-digital materials. <br><br>
 
-*Graduate Student Researcher, UCLA Information Studies Dept.,* October 2017–June 2018: <br>
+<h4>*Graduate Student Researcher, UCLA Information Studies Dept.,* October 2017–June 2018:</h4> 
 -Search archives, special collections, and online databases for records supporting UCLA professor’s work on TV History, perform data entry and management, create digital files of records and store them in online database I built, report findings and suggest areas for exploration.<br><br>
 
 *Substitute Librarian & Teacher, Torrance Unified School District,* October 2016–Present:<br>
